@@ -1,0 +1,11 @@
+D:\ModernUI\KNCSDL\KNCSDL\bin\Debug\KNCSDL.exe.config
+D:\ModernUI\KNCSDL\KNCSDL\bin\Debug\KNCSDL.exe
+D:\ModernUI\KNCSDL\KNCSDL\bin\Debug\KNCSDL.pdb
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.AssemblyReference.cache
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.SuggestedBindingRedirects.cache
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.Form1.resources
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.Properties.Resources.resources
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.GenerateResource.cache
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.CoreCompileInputs.cache
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.exe
+D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.pdb
