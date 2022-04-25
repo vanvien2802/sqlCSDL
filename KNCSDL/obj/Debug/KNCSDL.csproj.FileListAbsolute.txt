@@ -9,3 +9,13 @@ D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.GenerateResource.cache
 D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.CoreCompileInputs.cache
 D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.exe
 D:\ModernUI\KNCSDL\KNCSDL\obj\Debug\KNCSDL.pdb
+E:\sqlCSDL\KNCSDL\bin\Debug\KNCSDL.exe.config
+E:\sqlCSDL\KNCSDL\bin\Debug\KNCSDL.exe
+E:\sqlCSDL\KNCSDL\bin\Debug\KNCSDL.pdb
+E:\sqlCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.AssemblyReference.cache
+E:\sqlCSDL\KNCSDL\obj\Debug\KNCSDL.Form1.resources
+E:\sqlCSDL\KNCSDL\obj\Debug\KNCSDL.Properties.Resources.resources
+E:\sqlCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.GenerateResource.cache
+E:\sqlCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.CoreCompileInputs.cache
+E:\sqlCSDL\KNCSDL\obj\Debug\KNCSDL.exe
+E:\sqlCSDL\KNCSDL\obj\Debug\KNCSDL.pdb

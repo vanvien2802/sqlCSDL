@@ -27,26 +27,8 @@ namespace KNCSDL
         public DataTable GetRecordSV(string query)
         {
             DataTable dt = new DataTable();
-            dt.Columns.AddRange(new DataColumn[]
-            {
-                new DataColumn{ColumnName = "MSSV", DataType = typeof(string)},
-                new DataColumn{ColumnName = "NameSV", DataType = typeof(string)},
-                new DataColumn{ColumnName = "DTB", DataType = typeof(float)},
-                new DataColumn{ColumnName = "ID_Lop", DataType = typeof(string)},
-            });
-            SqlCommand cmd = new SqlCommand(query, cnn);
-            SqlDataReader r;
-            cnn.Open();
-            r = cmd.ExecuteReader();
-            while (r.Read())
-            {
-                dt.Rows.Add(
-                    r["MSSV"].ToString(),
-                    r["NameSV"].ToString(),
-                    r["DTB"].ToString(),
-                    r["ID_Lop"].ToString()
-                    );
-            }
+            SqlDataAdapter da = new SqlDataAdapter(query,cnn);
+            da.Fill(dt);
             cnn.Close();
             return dt;
         }
